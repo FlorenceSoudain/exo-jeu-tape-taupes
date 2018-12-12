@@ -1,7 +1,7 @@
 Consignes :
 
 - Vous allez créer un jeu de la taupe en jQuery.
-- Le jeu commence lorque l'utilisateur clique sur le bouton start
+- Le jeu commence lorsque l'utilisateur clique sur le bouton start
 - La fonction demarrant le jeu s'appellera startGame()
 - Le joueur aura 10 secondes par partie
 - tant que le temps n'est pas écoulé, votre programme selectionnera un trou au hasard
